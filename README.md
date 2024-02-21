@@ -1,6 +1,6 @@
 # Portfolio
 
-**Project Link: [Portfolio](https://mohdjunaid007.github.io/portfolio2/)**
+Live Link - https://portfolio-samsingh36s-projects.vercel.app/
 
 ## Project Description
 
