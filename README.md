@@ -1,6 +1,6 @@
 # Portfolio
 
-Live Link: https://portfolio-8frqmbgmb-samsingh36s-projects.vercel.app/
+Live Link - https://portfolio-8frqmbgmb-samsingh36s-projects.vercel.app/
 
 ## Project Description
 
