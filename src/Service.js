@@ -6,9 +6,9 @@ function Service() {
         <div className='service compenent__space' id='Services' >
             <div className='heading'>
                 <h1 className='heading'> Services</h1>
-                <p className='heading p__color'> I am skilled in these works
+                <p className='heading p__color'> I possess expertise in the following areas. 
                 </p>
-                <p className='heading p__color'>feel free to reach me</p>
+                <p className='heading p__color'>Feel free to contact me</p>
 
             </div>
             <div className='row'>
