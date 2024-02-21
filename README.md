@@ -1,6 +1,6 @@
 # Portfolio
 
-**Project Link: [Portfolio](https://portfolio-8frqmbgmb-samsingh36s-projects.vercel.app/)**
+**Project Link: https://portfolio-8frqmbgmb-samsingh36s-projects.vercel.app/
 
 ## Project Description
 
