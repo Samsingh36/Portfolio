@@ -18,16 +18,19 @@ function About() {
                     </div>
                     <div className='col__2'>
                         <h1 className='about__heading'>
-                            About Me
+                        Why you should hire me!
                             <div className='about__meta'>
                                 <p className='about__text p__color'>
                                     Passionate Developer | Problem Solver| Enthusiastic Learner
                                 </p>
                                 <p className='about__text p__color'>
-                                    Samar Pratap Singh is an exceptional individual known for his unwavering work ethic, punctuality, and remarkable intelligence. A dedicated tech enthusiast, he stays updated with the latest advancements. Beyond work, he's an avid table tennis player, enjoys reading newspapers, and explores new cultures through travel, showcasing a zest for life's diverse experiences.
+                                Samar Pratap Singh is an exceptional individual known for his unwavering work ethic, punctuality, and remarkable intelligence. A dedicated tech enthusiast, he stays updated with the latest advancements. Beyond work, he's an avid table tennis player, enjoys reading newspapers, and enjoys exploring new cultures through travel, reflecting his zest for diverse experiences. He believes that, if given the opportunity, he can significantly contribute to the organization with his skills.
                                 </p>
                                 <div className='about__button d__flex align__items__center resume'>
-                                <a href='/Resume.pdf' download='Resume.pdf' ><button className='about btn pointer resume'>Download Resume</button></a>
+                                <a href='/Resume.pdf' download='Resume.pdf'>
+                                   <button className='about btn pointer resume'>Download Resume</button>
+                                </a>
+
                                     <a href='mailto:samarpratapsingh587@gmail.com'>
                                         <button className='about btn pointer'> Hire Me</button>
                                     </a>
