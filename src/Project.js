@@ -10,7 +10,7 @@ function Project() {
             <div className="heading">
                 <h1 className="heading">My Latest Projects</h1>
                 <p className="heading p__color">
-                    There are some of my best projects
+                    These are some of my best projects
                 </p>
             </div>
             <div className="container">
